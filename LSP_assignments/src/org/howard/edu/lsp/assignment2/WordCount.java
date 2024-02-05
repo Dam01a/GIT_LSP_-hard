@@ -8,7 +8,7 @@ import java.util.Map;
 public class WordCount {
 
     public static void main(String[] args) throws IOException {
-    	String filePath = "C:\\Users\\12409\\Downloads\\words.txt";
+    	String filePath = "words.txt.txt";
 
         Map<String, Integer> wordCountMap = new HashMap();
 
